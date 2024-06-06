@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165462702723",
+    "project_id": "qr-code9",
+    "storage_bucket": "qr-code9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165462702723:android:9ac472accf0f9232f7b9b6",
+        "android_client_info": {
+          "package_name": "fadhilrasyid.wnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165462702723-3pkl1uqqtgnapae39ekhmi03hj5kbhqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UzZxfEzfI6YbvWeJG6P1VCPZ28oeyMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165462702723-3pkl1uqqtgnapae39ekhmi03hj5kbhqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

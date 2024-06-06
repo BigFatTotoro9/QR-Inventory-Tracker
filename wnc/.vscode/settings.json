@@ -1,0 +1,4 @@
+{
+  "dart.flutterRunAdditionalArgs": ["--no-sound-null-safety"],
+  "cmake.sourceDirectory": "D:/FlutterProject/wnc/windows/flutter"
+}
